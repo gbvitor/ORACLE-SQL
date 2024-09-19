@@ -83,4 +83,4 @@ WHERE last_name LIKE '%A\_B%' ESCAPE '\'
 ORDER BY last_name;
 ```
 
-A cláusula identifica a barra invertida (\) como o caractere de escape. No padrão, o caractere de escape precede o sublinhado (\_). Isso faz com que o Oracle interprete o sublinhado literalmente, em vez de como um caractere especial de correspondência de padrões.
+A cláusula identifica a barra invertida (\\) como o caractere de escape. No padrão, o caractere de escape precede o sublinhado (\_). Isso faz com que o Oracle interprete o sublinhado literalmente, em vez de como um caractere especial de correspondência de padrões.

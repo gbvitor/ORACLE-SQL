@@ -1,12 +1,12 @@
 ### Sobre operadores SQL.
 
-Os operadores manipulam itens de dados individuais chamados operandos ou argumentos. Os operadores são representados por<br>
+Os operadores manipulam itens de dados individuais chamados operandos ou argumentos. Os operadores são representados por
 caracteres especiais ou por palavras-chave. Por exemplo, o operador de multiplicação é representado por um asterisco (\*).
 
 #### Precedência dos operadores.
 
-Precedência é a ordem na qual o Oracle Database avalia diferentes operadores na mesma expressão. Ao avaliar uma expressão que<br>
-contém vários operadores, a Oracle avalia os operadores com maior precedência antes de avaliar aqueles com menor precedência.<br>
+Precedência é a ordem na qual o Oracle Database avalia diferentes operadores na mesma expressão. Ao avaliar uma expressão que
+contém vários operadores, a Oracle avalia os operadores com maior precedência antes de avaliar aqueles com menor precedência.
 A Oracle avalia operadores com precedência igual da esquerda para a direita em uma expressão.
 
 |                      **Operador**                       |                                                                                **Operação**                                                                                 |
